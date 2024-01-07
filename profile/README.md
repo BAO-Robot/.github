@@ -1,6 +1,6 @@
 # 行动自编码机器人
 
-![bg](profile/bg.png)
+![bg](bg.png)
 
 ## 我们的态度
 
